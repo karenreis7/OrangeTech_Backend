@@ -1,8 +1,8 @@
 package POO;
 
-// Exercicio Básico de como criar uma classe e seus atributos//
+// Exercicio Básico de como criar uma classe e os seus atributos//
 public class Carro {
-    String nome;
+    String nome;                // Atributos
     int placa;
     String modelo;
     String cor;
@@ -26,22 +26,27 @@ public class Carro {
     }
 
     public String getCor() {
+
         return cor;
     }
 
     public void setCor(String cor) {
+
         this.cor = cor;
     }
 
     public int getCapacidadetanque() {
+
         return capacidadetanque;
     }
 
     public void setCapacidadetanque(int capacidadetanque) {
+
         this.capacidadetanque = capacidadetanque;
     }
 
     double TotalValorTanque(double valorCombustivel){
+
         return capacidadetanque * valorCombustivel;
     }
 }
