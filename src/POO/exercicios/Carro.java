@@ -1,4 +1,4 @@
-package POO;
+package POO.exercicios;
 
 // Exercicio Básico de como criar uma classe e os seus atributos//
 public class Carro {
