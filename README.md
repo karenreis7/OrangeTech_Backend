@@ -4,3 +4,4 @@ Repositório com Anotações e Códigos desenvolvidos durante o Bootcamp da DIO.
 
 ## 📑 Anotações
  * [Programação Orientada a Objetos](https://github.com/karenreis7/OrangeTech_Backend/blob/main/src/POO/EstruturaBasicaPoo.md)
+ * [Conceitos Relacionais](https://github.com/karenreis7/OrangeTech_Backend/blob/main/src/POO/ConceitosRelacionais.md)
